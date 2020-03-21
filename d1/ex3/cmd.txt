@@ -1,0 +1,3 @@
+242005001 | 1236 | 24 octobre 2005 | Tomates | 4 | 4.0 | 20 octobre 2012 | agadir
+252005001 | 1235 | 25 octobre 2005 | Tomates | 6 | 3.5 | 12 janvier 2013 | tanger
+252005002 | 1234 | 25 octobre 2005 | Tomates | 8 | 3.0 | 14 mars 2014 | rabat
